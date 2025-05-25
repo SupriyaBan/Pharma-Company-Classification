@@ -1,4 +1,4 @@
-# Pharma-Company-Classification
+# Indian Pharmaceutical Sector Analysis
 
 This project presents a comprehensive financial and clustering analysis of 40 publicly listed pharmaceutical companies in India, offering insights into the sector's structure, performance, and segmentation.
 
